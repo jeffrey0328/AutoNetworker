@@ -1,0 +1,10 @@
+2026-03-01 22:05:19 - STARTING BROWSER: ['C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe', '--remote-debugging-port=9222', '--user-data-dir=C:\\Users\\Administrator\\AppData\\Local\\Temp\\AutoNetworkerProfile_Microsoft Edge_9222', '--new-window', 'https://maimai.cn/ent/v41/recruit/talents?tab=1']
+2026-03-01 22:05:19 - Started browser process PID: 24224
+2026-03-01 22:05:24 - APP EXITING (atexit)
+2026-03-01 22:07:25 - STARTING BROWSER: ['C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe', '--remote-debugging-port=9222', '--user-data-dir=C:\\Users\\Administrator\\AppData\\Local\\Temp\\AutoNetworkerProfile_Microsoft Edge_9222', '--new-window', 'https://maimai.cn/ent/v41/recruit/talents?tab=1']
+2026-03-01 22:07:25 - Launching with shell command: start "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --remote-debugging-port=9222 --user-data-dir="C:\Users\Administrator\AppData\Local\Temp\AutoNetworkerProfile_Microsoft Edge_9222" --new-window "https://maimai.cn/ent/v41/recruit/talents?tab=1"
+2026-03-01 22:07:25 - Started browser shell command PID: 25392
+2026-03-01 22:07:29 - APP EXITING (atexit)
+2026-03-01 22:10:54 - STARTING BROWSER: ['C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe', '--remote-debugging-port=9222', '--user-data-dir=C:\\Users\\Administrator\\AppData\\Local\\Temp\\AutoNetworkerProfile_Microsoft Edge_9222', '--new-window', 'https://maimai.cn/ent/v41/recruit/talents?tab=1']
+2026-03-01 22:10:54 - Started browser process PID: 27568 with flags 0x1000208
+2026-03-01 22:10:57 - APP EXITING (atexit)
